@@ -1,6 +1,6 @@
-# Projeto 'Be The Hero' - Semana Omnistack 11.0
+# Projeto 'Be The Hero'
 
-Esse é o projeto chamado 'Be The Hero' que foi desenvolvido durante a Semana Omnistack 11, organizada pela [RocketSeat](https://rocketseat.com.br/). A aplicação tem como objetivo conectar ONGs a pessoas que podem contribuir financeiramente nos casos divulgados por essas ONGs.
+Essa aplicação tem como objetivo conectar ONGs a pessoas que podem contribuir financeiramente nos casos divulgados por essas ONGs. Essa aplicação tem código aberto.
 
 ## Imagens
 <p align="center">
